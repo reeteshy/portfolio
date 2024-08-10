@@ -87,10 +87,10 @@ const skills = {
     { name: "Express", value: 45 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
-    { name: "Creativity", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
+    { name: "HTML/HTML5", value: 80 },
+    { name: "CSS/CSS3", value: 90 },
+    { name: "Redux ToolKit", value: 75 },
+    { name: "Azure CICD", value: 85 },
     { name: "Git", value: 80 },
     { name: "VS Code", value: 90 },
     { name: "Postman", value: 90 },
@@ -103,7 +103,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering  for Web development opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently looking for full-time Full Stack for Web development opportunities! If you know of any positions available or if you just want to say hi, please feel free to email me at",
   email: "reeteshy15@gmail.com",
 };
 
@@ -112,14 +112,14 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: 'Software Engineer',
+      companylogo: require('../assets/img/Chetu-india.png'),
+      date: 'Oct 2019 – Present',
     },
     {
       role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      companylogo: require('../assets/img/mediatrenz.png'),
+      date: 'July- 2018 - Oct-2019',
     },
   ]
 }
