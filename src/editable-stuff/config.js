@@ -37,7 +37,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Reetesh Yadav. A skilled React developer with a passion for crafting seamless user experiences and scalable web applications. With 6 of hands-on experience, I specialize in leveraging the power of React.js to build dynamic and responsive interfaces. Proficient in JavaScript (ES6+), HTML5, and CSS3, I excel in state management using tools like Redux, Typescript, Javascript and Other tools",
-  resume: "https://docs.google.com/document/d/1Swlcez4xxgkzTfgq7t-YCr6UjB8oF64M/edit?usp=drive_link&ouid=104367892167973918425&rtpof=true&sd=true",
+  resume: "https://drive.google.com/file/d/1fOqNDYGzVC_4SvCVKoYgr1AIvx5hl4D_/view",
 };
 
 const repos = {
